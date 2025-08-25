@@ -1,0 +1,19 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Eclipse specific
+.classpath
+.project
+.settings/
+bin/
+tmp/
+
+# VS Code specific (if you ever use it)
+.vscode/
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
