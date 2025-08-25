@@ -1,4 +1,4 @@
-package def;
+package src;
 import java.util.Scanner;
 public class LibraryMain {
 
@@ -102,3 +102,4 @@ public class LibraryMain {
 	}
 	
 	}
+
